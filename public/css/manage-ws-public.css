@@ -1,0 +1,38 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+body.login {
+  background-color: #FFFFFF;
+}
+
+body.login div#login form#loginform {
+  background-color: #D3D3D3;
+  box-shadow: 5px 5px 15px rgb(0 0 0 / 0.2);
+  border-radius: 4px;
+}
+
+#login h1 a, .login h1 a {
+  background-image: url('../img/wonkasoft-logo.png');
+  height:110px;
+  width:320px;
+  background-size: 320px 110px;
+  background-repeat: no-repeat;
+  padding-bottom: 5px;
+}
+
+body.login div#login form#loginform .button-primary {
+  background-color: #FBCA28;
+  font-weight: bold;
+  padding: 5px 20px;
+  border-radius: 4px;
+  border-color: #111111;
+  color: #111111;
+  transition: ease-in-out, .5s;
+}
+
+body.login div#login form#loginform .button-primary:hover {
+  color: #FFFFFF;
+  background-color: #17252E;
+}
