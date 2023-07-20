@@ -174,7 +174,9 @@ class Manage_Ws {
 		$this->loader->add_action( 'wp_enqueue_scripts', $plugin_public, 'enqueue_scripts' );
 		$this->loader->add_action( 'login_enqueue_scripts', $plugin_public, 'customize_login_page' );
 		$this->loader->add_filter( 'login_headertext', $plugin_public, 'customize_login_page_header' );
+		$this->loader->add_filter( 'login_message', $plugin_public, 'customize_login_page_message' );
 		$this->loader->add_filter( 'login_headerurl', $plugin_public, 'customize_login_page_header_link' );
+		$this->loader->add_filter( 'login_footer', $plugin_public, 'customize_login_page_footer_message' );
 
 	}
 

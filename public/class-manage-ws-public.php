@@ -108,6 +108,17 @@ class Manage_Ws_Public {
 		return 'Managed by Wonkasoft LLC';
 	}
 
+	public function customize_login_page_message() {
+		return "<h4 align='center'>Your Trusted Digital Support<br /> Managed by Wonkasoft, LLC</h4>";
+	}
+
+	public function customize_login_page_footer_message() {
+		echo "<p align='center'>Welcome to our Customer's Corner! As your trusted digital support,</p>";
+		echo "<p align='center'>we are committed to providing you with a seamless online experience,</p>";
+		echo "<p align='center'>ensuring smooth navigation and prompt assistance whenever you need it.</p>";
+		echo "<p align='center'>For any issues contact Wonkasoft <a href='mailto:support@wonkasoft.com'>Support</a></p>";
+	}
+
 	public function customize_login_page_header_link() {
 		return 'https://wonkasoft.com';
 	}

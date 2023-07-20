@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Manage WS
  * Plugin URI:        https://wonkasoft.com/manage-ws
- * Description:       This is a custom solution for all sites managed by Wonkasoft LLC.
+ * Description:       At Wonkasoft, LLC, we are thrilled to introduce our exclusive manage-ws plugin, designed to enhance your website's login page with a touch of professionalism and trust. With this powerful tool, your website will proudly display the message "Managed by Wonkasoft, LLC" on the login screen, instilling confidence in your users from the very first interaction.
  * Version:           1.0.0
  * Author:            Wonkasoft LLC
  * Author URI:        https://wonkasoft.com
