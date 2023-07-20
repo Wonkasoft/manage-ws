@@ -1,6 +1,6 @@
 === Manage-WS: Wonkasoft Login Branding ===
 
-Contributors: [Wonkasoft](https://wonkasoft.com) [llister15](https://github.com/llister15) [MrLister](https://github.com/MrLister)
+Contributors: [Wonkasoft](https://wonkasoft.com) | [llister15](https://github.com/llister15) | [MrLister](https://github.com/MrLister)
 
 Donate link: https://www.paypal.com/paypalme/Wonkasoft
 
