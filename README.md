@@ -1,7 +1,8 @@
 === Manage-WS: Wonkasoft Login Branding ===
 
 Contributors: [Wonkasoft](https://wonkasoft.com) [llister15](https://github.com/llister15) [MrLister](https://github.com/MrLister)
-Donate link: https://wonkasoft.com
+
+Donate link: https://www.paypal.com/paypalme/Wonkasoft
 Tags: branding, login, managed by Wonkasoft, LLC
 Requires at least: 3.0.1
 Tested up to: 5.8
