@@ -3,11 +3,17 @@
 Contributors: [Wonkasoft](https://wonkasoft.com) [llister15](https://github.com/llister15) [MrLister](https://github.com/MrLister)
 
 Donate link: https://www.paypal.com/paypalme/Wonkasoft
+
 Tags: branding, login, managed by Wonkasoft, LLC
+
 Requires at least: 3.0.1
+
 Tested up to: 5.8
+
 Stable tag: 1.0
+
 License: GPLv2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Welcome to "Manage-WS: Wonkasoft Login Branding"! This powerful WordPress plugin elevates your website management services by displaying the 
